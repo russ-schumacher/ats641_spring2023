@@ -5,7 +5,7 @@
 For lab assignment 1, we'll be using [MetPy](https://unidata.github.io/MetPy/latest/index.html), developed by Unidata, to produce maps and other graphics. The first step, if you haven't done this before, will be to install python, and then ultimately install MetPy.
 
 ## Installing python via mambaforge
-First, let's install the mambaforge version of python.  (If you already have miniconda/anaconda/mamba installed on the computer you want to use, you can skip this step and go to the assignment.)  Following the instructions used in the [Unidata python workshop](https://unidata.github.io/python-training/):
+First, let's install the mambaforge version of python.  (If you already have miniconda/anaconda/mamba installed on the computer you want to use, you can skip this step and go to the assignment.)  Following the instructions, which are based on those in the [Unidata python workshop](https://unidata.github.io/python-training/), but modified to use Mambaforge instead, which is much faster:
 
 
 #### Windows
@@ -18,7 +18,7 @@ First, let's install the mambaforge version of python.  (If you already have min
 
 #### Mac/Linux
 
-- Download the [Miniconda bash installer](https://github.com/conda-forge/miniforge#mambaforge) for your platform.
+- Download the [Mambaforge bash installer](https://github.com/conda-forge/miniforge#mambaforge) for your platform.
 
 - After downloading the bash installer, open a command prompt (terminal app on the Mac).
 
