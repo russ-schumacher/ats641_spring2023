@@ -32,11 +32,11 @@ First, let's install the mambaforge version of python.  (If you already have min
 
 - If bash isn't your default shell, switch to it by running the command bash.
 
-- Verify that your install is working by running `conda --version`. You should see a response like `conda 4.11.0` or similar (though yours may be a slightly different version number).
+- Verify that your install is working by running `mamba --version`. You should see a response like `mamba 1.0.0, conda 22.9.0` or similar (though yours may be a different version number).
 
 ### Setting up your environment
 
-Now we will set up an environment with the packages we need to have installed. Here is a link to an environment file that we'll use for the class (adapted from Unidata's workshop materials): [environment.yml file](environment_ats641_2022.yml)
+Now we will set up an environment with the packages we need to have installed. Here is a link to an environment file that we'll use for the class (adapted from Unidata's workshop materials): [environment.yml file](environment_ats641_2023.yml)
 
 To set up this environment, follow these steps:
 
@@ -46,9 +46,9 @@ To set up this environment, follow these steps:
 
 - In the terminal, navigate to wherever this file saved, probably cd ~/Downloads will get you there.
 
-- Run the command `conda env create -f environment_ats641_2022.yml` and wait for the installation to finish (it may take a while, especially if you're on a slow internet connection).
+- Run the command `mamba env create -f environment_ats641_2023.yml` and wait for the installation to finish (it may take a while, especially if you're on a slow internet connection).
 
-- Run the command `conda activate ats641_2022` to activate the unidata environment and verify that everything is ready.  (It may ask you to do something like `conda init bash`, if so then do that first.)
+- Run the command `mamba activate ats641_2023` to activate the unidata environment and verify that everything is ready.  (It may ask you to do something like `conda init bash`, if so then do that first.)
 
 ### Opening and running a jupyter notebook
 
