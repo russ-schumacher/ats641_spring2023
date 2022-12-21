@@ -1,0 +1,27 @@
+name: ats641_2023
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+   - python=3.11
+   - numpy
+   - matplotlib
+   - cartopy
+   - jupyter
+   - metpy
+   - siphon
+   - pandas
+   - pip
+   - xarray
+   - jupyterlab
+   - netcdf4
+   - cfgrib
+   - plotly
+   - cdsapi
+   - fsspec
+   - dask
+   - arm_pyart
+   - scikit-learn
+   - seaborn
+   - pip:
+      - python-awips
