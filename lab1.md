@@ -48,7 +48,7 @@ To set up this environment, follow these steps:
 
 - Run the command `mamba env create -f environment_ats641_2023.yml` and wait for the installation to finish (it may take a while, especially if you're on a slow internet connection).
 
-- Run the command `mamba activate ats641_2023` to activate the unidata environment and verify that everything is ready.  (It may ask you to do something like `conda init bash`, if so then do that first.)
+- Run the command `mamba activate ats641_2023` to activate the environment you created and verify that everything is ready.  (It may ask you to do something like `conda init bash`, if so then do that first.)
 
 ### Opening and running a jupyter notebook
 
