@@ -44,7 +44,7 @@ To set up this environment, follow these steps:
 
 - Download the .yml file that tells your system what should be in the environment (see link above).
 
-- In the terminal, navigate to wherever this file saved, probably cd ~/Downloads will get you there.
+- In the terminal, navigate to wherever this file is saved, probably something like `cd ~/Downloads` will get you there.
 
 - Run the command `mamba env create -f environment_ats641_2023.yml` and wait for the installation to finish (it may take a while, especially if you're on a slow internet connection).
 
