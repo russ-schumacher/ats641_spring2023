@@ -108,9 +108,6 @@ You might not like how this map looks, so spend some time making a nicer-looking
 
 When you turn in your write-up, include your hand-analyzed map, the initial map with the automated analysis, and your "final product" map (hard copy and/or electronic versions are fine). 
 
-### Optional extra credit
-
-There is one clearly erroneous observation in the dataset, though it falls outside of the eastern US domain we've been plotting. Identify this observation (station, location, and why the observation is in error.)
 
 
 
