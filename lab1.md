@@ -56,7 +56,7 @@ There are different ways you can run and interact with python, but a great way t
 
 - At the terminal, `cd` into whatever directory you want to work out of (this might be a directory you've set up just for the class, or you can make a new one, etc.)
 
-- if you haven't, run `conda activate ats641_2022` to activate the environment.
+- if you haven't, run `conda activate ats641_2023` to activate the environment.
 
 - We're going to start with an example notebook, obtained from the Unidata website.  Right-click and download [this file](https://unidata.github.io/python-training/gallery/500hpa_hght_winds/index.ipynb).   (This notebook originates from [this page](https://unidata.github.io/python-training/gallery/500hpa_hght_winds/).)
 
