@@ -13,6 +13,8 @@
 ## script to run CM1
 
 module load libraries/netcdf-2022
+module load mpi/openmpi4.0.2-gcc9.2.0
+
 
 echo "running CM1"
 date
