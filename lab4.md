@@ -3,7 +3,7 @@
 
 Part 1 of the lab was distributed separately and involves analyzing an observed severe weather event (see [the PDF](lab4/lab4.pdf) for instructions.)  
 
-In this lab, we will use [Cloud Model 1 (CM1)](https://www2.mmm.ucar.edu/people/bryan/cm1/) to simulate and analyze convection in a few different situations. I expect that it will be a bit challenging for some of you to get CM1 up and running, so you have about 3 weeks to do this lab, but you will want to get started on it sooner rather than later.
+In this lab, we will use [Cloud Model 1 (CM1)](https://www2.mmm.ucar.edu/people/bryan/cm1/) to simulate and analyze convection in a few different situations. I expect that it could be a bit challenging to get CM1 up and running, so you have about 3 weeks to do this lab, but you will want to get started on it sooner rather than later.
 
 ## Installing the CM1 model
 The first step is to download and install CM1. Some instructions for doing that are [here](lab4/cm1_instructions.md).
