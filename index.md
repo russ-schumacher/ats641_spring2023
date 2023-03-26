@@ -5,3 +5,5 @@ For some of the assignments and projects in ATS641 this semester, we'll be writi
 [Lab assignment 1, including python and metpy setup](lab1.md)
 
 [Lab assignment 2: vertical motion and PV](lab2.md)
+
+[Lab assignment 4: numerical simulation of convective storms](lab4.md)
