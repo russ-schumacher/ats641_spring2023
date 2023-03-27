@@ -2,7 +2,7 @@
 
 #### script to run CM1 on the CSU asha cluster.
 
-#SBATCH --partition=coe-cpu
+#SBATCH --partition=all
 #SBATCH --job-name=test-cm1
 #SBATCH --ntasks=20
 #SBATCH --mail-user=your_email_address@server dot edu
